@@ -12,7 +12,7 @@
 
 WanderMobile é um aplicativo móvel desenvolvido com React Native e Expo que ajuda os usuários a planejar e organizar suas viagens de forma eficiente. O aplicativo oferece uma interface intuitiva e recursos completos para gerenciar todos os aspectos de uma viagem.
 
-## ✨ Funcionalidades
+## ✨ Páginas
 
 - 🏠 **Home**: Tela inicial com visão geral da viagem
 - 🗺️ **Destinos**: Explore e descubra novos lugares para visitar
@@ -75,13 +75,3 @@ npx expo start
     </tr>
   </tbody>
 </table>
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<div align="center">
-  <sub>Desenvolvido com ❤️ pelo time WanderMobile</sub>
-</div>
